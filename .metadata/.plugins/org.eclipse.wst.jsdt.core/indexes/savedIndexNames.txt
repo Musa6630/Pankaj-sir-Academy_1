@@ -1,0 +1,17 @@
+INDEX VERSION 1.4+C:\Users\devil\Desktop\Pankaj sir Academy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3679883381.index
+4156945030.index
+2160247312.index
+1823498227.index
+1236999035.index
+3275914721.index
+1330702566.index
+1834279756.index
+262918790.index
+2274268067.index
+731568135.index
+432772010.index
+2423052559.index
+2563057236.index
+1624454554.index
+3596204380.index

@@ -1,0 +1,6 @@
+127.0.0.1 - - [09/Sep/2023:14:50:24 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Sep/2023:14:50:26 +0530] "GET /Registration_App/login.jsp HTTP/1.1" 200 339
+0:0:0:0:0:0:0:1 - - [09/Sep/2023:14:50:26 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [09/Sep/2023:14:50:36 +0530] "POST /Registration_App/verify_login HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [09/Sep/2023:14:51:28 +0530] "POST /Registration_App/verify_login HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [09/Sep/2023:14:53:42 +0530] "POST /Registration_App/verify_login HTTP/1.1" 200 -
